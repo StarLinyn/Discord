@@ -46,18 +46,18 @@
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
 *    ➥ A higher value means more rounded corners and a lower ...
-*       0 ➜ Square
+*    
 *       1000➜ Circle
 */
 
   /* Avatars - Default value : 5px */
-  --avatar-radius: 5px;
+  --avatar-radius: 500px;
 
   /* Status - Default value : 3px */
-  --status-radius: 3px;
+  --status-radius: 300px;
 
   /* Servers - Default value : 8px */
-  --server-radius: 8px;
+  --server-radius: 800px;
 
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
